@@ -30,6 +30,12 @@
 
 .logo {
     max-height: 50px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.logo:hover {
+    transform: rotate(135deg);
 }
 
 .navbar ul {
