@@ -59,11 +59,6 @@
 <!-- The following are just sample -->
 Description of the project in details.
 The project is all about Header and Footer Page. The purpose of this project is to improve my coding skills in html and css. The key components are MultiPage Website, Footer, Header, Landing Page. The technology i used is HTML, CSS.
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
